@@ -1,2 +1,2 @@
 config:
-  infor: "master brach,springcloud-config/config-test.yml version=1"
+  info: "master brach,springcloud-config/config-test.yml version=1"
